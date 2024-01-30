@@ -1,7 +1,7 @@
 # shimoga<br>
 famous and budget-friendly restaurants 
 <br>
-ranked according to me 
+ Ranked According to  me 
 <br>
     1. Hotel Ganesh Prasad
    <br>
