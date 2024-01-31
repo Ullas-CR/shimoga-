@@ -11,5 +11,5 @@ famous and budget-friendly restaurants
       <br>
    4. Sri Aannapoorna Mess (Pure Veg),
       <br> 
-    5. Gandarava Hotel(veg).
+    5. Gandarava Hotel(veg).,
       <br>
