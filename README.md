@@ -9,7 +9,7 @@ famous and budget-friendly restaurants
       <br>
    3 .HOTEL SHUBHAM,
       <br>
-   4. Sri Aannapoorna Mess (Pure Veg)
+   4. Sri Aannapoorna Mess (Pure Veg),
       <br> 
     5. Gandarava Hotel(veg) 
       <br>
