@@ -7,8 +7,8 @@ famous and budget-friendly restaurants
    <br>
    2. Sri Vigneshwara Udupi Hotel, ಶ್ರೀ ವಿಘ್ನೇಶ್ವರ ಉಡುಪಿ ಹೋಟೆಲ್,
       <br>
-   3 .HOTEL SHUBHAM,  
-      <br>
+   3 .HOTEL SHUBHAM,    
+        <br>
    4. Sri Aannapoorna Mess (Pure Veg),
       <br> 
     5. Gandarava Hotel(veg).,
